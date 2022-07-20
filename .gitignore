@@ -1,0 +1,4 @@
+#忽略.idea文件
+*.idea
+#忽略所有目录下的node_modules文件夹
+node_moudles/
